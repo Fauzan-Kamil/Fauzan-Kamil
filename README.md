@@ -21,5 +21,8 @@
 
 <a href = "https://www.instagram.com/kamiilll3/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/fauzan-kamil"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/fauzan-kamil"><img src="![1679172163299](https://user-images.githubusercontent.com/73100062/235370012-f95f3116-6173-4fd5-b346-678609284e08.jpeg)
+"/></a> 
+
 </p>
 
