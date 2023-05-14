@@ -24,9 +24,6 @@
 
 [![Pandas](https://img.shields.io/badge/Pandas-356?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Numpy](https://img.shields.io/badge/Numpy-FFF?style=for-the-badge&logo=numpy&logoColor=blue)](https://numpy.org/)
-
-#### Data visualization
-
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=https://matplotlib.org/&logoColor=blue)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn.pydata&logoColor=white)](https://seaborn.pydata.org/)
