@@ -1,11 +1,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡&nbsp; Saya memiliki minat khusus di bidang data science 📊 dan senang mengeksplorasi data untuk mencari insight yang berharga bagi bisnis atau organisasi. 🔍\
-🎓 &nbsp;Saat ini, saya sedang menempuh pendidikan di jurusan Informatika di Universitas Bhayangkara Jakarta Raya dengan fokus pada data science dan analisis data. 🎓📈\
-🌱 &nbsp;Saya sedang berusaha untuk belajar lebih banyak tentang kecerdasan buatan dan teknologi terbaru dalam bidang data science. 💻🤖\
-💬 &nbsp;Jangan ragu untuk menghubungi saya untuk diskusi atau kolaborasi di bidang data science atau analisis data. 🤝\
-✉️&nbsp;Anda dapat mengirimkan email ke kamilbotax33@gmail.com! Saya akan mencoba untuk merespons secepat mungkin. 📧\
-📄 &nbsp;Silakan lihat [Portofolio](https://www.datascienceportfol.io/fauzankamil) saya untuk lebih banyak detail tentang pengalaman dan proyek saya di bidang data science dan analisis data. Saya terbuka untuk umpan balik dan saran! 🙏🏼
+💡&nbsp; Saya memiliki minat khusus di bidang data science dan senang mengeksplorasi data untuk mencari insight yang berharga bagi bisnis atau organisasi. \
+🎓 &nbsp;Saat ini, saya sedang menempuh pendidikan di jurusan Informatika di Universitas Bhayangkara Jakarta Raya dengan fokus pada data science dan analisis data. \
+🌱 &nbsp;Saya sedang berusaha untuk belajar lebih banyak tentang kecerdasan buatan dan teknologi terbaru dalam bidang data science. \
+💬 &nbsp;Jangan ragu untuk menghubungi saya untuk diskusi atau kolaborasi di bidang data science atau analisis data. \
+✉️&nbsp;Anda dapat mengirimkan email ke kamilbotax33@gmail.com! Saya akan mencoba untuk merespons secepat mungkin. \
+📄 &nbsp;Silakan lihat [Portofolio](https://www.datascienceportfol.io/fauzankamil) saya untuk lebih banyak detail tentang pengalaman dan proyek saya di bidang data science dan analisis data. Saya terbuka untuk umpan balik dan saran! 
 
 ## 📊 My Github Stats
 
