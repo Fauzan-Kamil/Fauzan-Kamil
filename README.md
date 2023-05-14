@@ -54,13 +54,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fauzan-Kamil&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## Git profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fauzan-Kamil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href = "https://www.instagram.com/kamiilll3/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.linkedin.com/in/fauzan-kamil"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.linkedin.com/in/fauzan-kamil"><img src="![1679172163299](https://user-images.githubusercontent.com/73100062/235370012-f95f3116-6173-4fd5-b346-678609284e08.jpeg)
-"/></a>
 
 Author : [Fauzan Kamil](https://github.com/Fauzan-Kamil/)
